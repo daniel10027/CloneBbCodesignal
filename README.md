@@ -125,6 +125,21 @@
 - Pourcentage
 - Logo
 - Multiplicité des badges
+
+:+1: .....................Forum........................ :shipit:
+
+### Les catégories
+
+### Les Postes
+
+- reaction
+- Commentaire
+- Catalogue
+- Nom
+- Photo
+- Titre
+- Date
+- +New Post
 	 
 	 
 
