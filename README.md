@@ -1,6 +1,5 @@
  # CAHIER DE CHARGE DE LA PLATEFORME CODESIGNAL
-
-# 1)INSCRIPTION ET CONNEXION
+ # 1)INSCRIPTION ET CONNEXION
 
 # -Inscription
 
@@ -15,19 +14,15 @@
 
 # 2)Dashboard Developer
 
-a-panneau challenge
-b-Historique d'activité
-c-challenge entreprise
-d-Challenge entre équipe
-e-Interview pour recruteur
-f-Lien direct vers le niveau d'arcade actuels
+	.panneau challenge
+	.Historique d'activité
+	.challenge entreprise
+	.Challenge entre équipe
+	.Interview pour recruteur
+	.Lien direct vers le niveau d'arcade actuels
 
 # 3)Contenu du dashbord
-
 # .......................ARCADE......................
-# ...................................................
-# ...................................................
-# ...................................................
 
    # A- Arcade
    
