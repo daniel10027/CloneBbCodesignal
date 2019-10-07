@@ -1,5 +1,4 @@
-# Codefight
-#CAHIER DED CHARGE DE LA PLATEFORME CODESIGNAL
+# CAHIER DED CHARGE DE LA PLATEFORME CODESIGNAL
 
 #1)INSCRIPTION ET CONNEXION
 
@@ -24,6 +23,11 @@ b-Historique d'activité
 f-Lien direct vers le niveau d'arcade actuels
 
 #3)Contenu du dashbord
+.......................ARCADE......................
+...................................................
+...................................................
+...................................................
+
    #A- Arcade
      .Liste des rubriques(Nom de la rubrique , information sur le contenu de la 	                 rubrique(ex: n ombre d'exercice résolu sur le nombre d'exercices total)
   #B-Contenu de la rubrique 
