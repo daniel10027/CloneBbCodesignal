@@ -4,7 +4,7 @@
 
   ### Inscription
 
-	.Email
+	[x].Email
 	.Username
 	.Password
 
