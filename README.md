@@ -23,7 +23,8 @@
 	.Lien direct vers le niveau d'arcade actuels
 
 3)Contenu du dashbord
-.......................ARCADE......................
+
+# .......................ARCADE......................
 
    A- Arcade
    
