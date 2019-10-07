@@ -4,14 +4,14 @@
 
   ### Inscription
 
-	[x].Email
-	.Username
-	.Password
+   [x] .Email
+   [x] .Username
+   [x] .Password
 
   ### Connexion
 
-	.Email/Username
-	.Password
+   [x] .Email/Username
+   [x] .Password
 
 ## [2)Dashboard Developer]
 
