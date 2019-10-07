@@ -24,7 +24,7 @@
 
 ## [3)Contenu du dashbord](https://github.com)
 
-@octocat :+1:  .......................ARCADE...................... :shipit: 
+ :+1:  .......................ARCADE...................... :shipit: 
 
   ### A- Arcade
    
@@ -58,7 +58,7 @@
 
    _le nom de l'utilisateur ayant publie le commentaire, la date de publication du commentaire, le vote , les          	    commentaires effectues , les réponses au commentaire_
 
-@octocat :+1:  ..................DAILY CHALLENGE.................. :shipit:
+ :+1:  ..................DAILY CHALLENGE.................. :shipit:
 
 - Statut(Public, Private)
 - all status (visible)
@@ -70,7 +70,7 @@
 	
 [_NB:  L'interface du challenge est identique à l 'arcade à la difference qui'il y a un temps imparti_](https://github.com)
 
-@octocat :+1:  ................COMPAGNIE CHALLENGE................ :shipit:
+ :+1:  ................COMPAGNIE CHALLENGE................ :shipit:
 
 - nom de la compagine
 - Type d'entreprise
@@ -80,7 +80,7 @@
 - Description entreprise ( about, langage )
 - Liste exercice de l'entreprise  (challenge de l'entreprise : Nom e l'exercice, Nombre de participant, la recompense, le chrono , la difficulté)
 
-@octocat :+1: ................Interview Practrice................. :shipit:
+ :+1: ................Interview Practrice................. :shipit:
 		
 - Affichage des categories des plans d 'etudes ( crash course, fundamentals, extra credits, freestyle)
 - Contenu detaillé des categories des etudes
@@ -98,7 +98,7 @@
 - Les commentaires
 - Un état de l' exercice (à venir , en cours , Terminé )
 		
-@octocat :+1: .....................Profil........................ :shipit:
+ :+1: .....................Profil........................ :shipit:
 
 ##  04-onglet
 
