@@ -24,7 +24,7 @@
 
 ## 3)Contenu du dashbord
 
-# .......................ARCADE......................
+> .......................ARCADE......................
 
   ### A- Arcade
    
@@ -56,7 +56,7 @@
 	
 ## 6)Les commentaires
 
-      	.le nom de l'utilisateur ayant publie le commentaire, la date de publication du commentaire, le vote , les          	    commentaires effectues , les réponses au commentaire
+   _le nom de l'utilisateur ayant publie le commentaire, la date de publication du commentaire, le vote , les          	    commentaires effectues , les réponses au commentaire_
 
 > ..................DAILY CHALLENGE..................
 
