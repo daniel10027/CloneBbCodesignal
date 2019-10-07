@@ -58,7 +58,7 @@
 
    _le nom de l'utilisateur ayant publie le commentaire, la date de publication du commentaire, le vote , les          	    commentaires effectues , les réponses au commentaire_
 
-#                    > ..................DAILY CHALLENGE..................
+#                 > ..................DAILY CHALLENGE..................
 
 	.Statut(Public, Private)
 	.all status (visible)
@@ -70,7 +70,7 @@
 	
 [_NB:  L'interface du challenge est identique à l 'arcade à la difference qui'il y a un temps imparti_](https://github.com)
 
-#                   > ................COMPAGNIE CHALLENGE................
+#                 > ................COMPAGNIE CHALLENGE................
 
 	.nom de la compagine
 	.Type d'entreprise
@@ -81,14 +81,14 @@
 	.Description entreprise ( about, langage )
 	.Liste exercice de l'entreprise  (challenge de l'entreprise : Nom e l'exercice, Nombre de participant, la recompense, le chrono , la difficulté)
 	
-#                   >................Interview Practrice.................
+#                >................Interview Practrice.................
 		
 	.Affichage des categories des plans d 'etudes ( crash course, fundamentals, extra credits, freestyle)
 	.Contenu detaillé des categories des etudes
 	.Contenu de l'exercice (Titre, nombre, , challenge)
 	.Contenu des test (titre, entreprise , difficulté, chrono, nombre d'inscrit, nombre de commentaire , recompense)
 	
-#                   >.....................Tourney........................
+#                >.....................Tourney........................
 
         .Trois type de tournoi : REGULAR , MARATHONS, PRIVATE
 	.Les informations sur un tournoi 
@@ -98,23 +98,30 @@
 		- Les commentaires
 		- Un état de l' exercice (à venir , en cours , Terminé )
 		
-#                   >.....................Profil........................
+#                >.....................Profil........................
 
-## 	.04 onglet
-###          .OVERVIEW
+###  04-onglet
 
-	    	  .User information
-		 	- Full_name
-			- Username
-			- Image
-			- E-mail
-			- Level
-			- Experience
-			- Education
+## Overview
+
+## User information
+
+- Full_name
+- Username
+- Image
+- E-mail
+- Level
+- Experience
+- Education
 			
-####         .Code Friend
-	   
-####  	     .Badge
+         .Code Friend
+	 
+	        - Liste de nos amis
+		_ Liste des messages envoyés en le propriétaire du compte et l'amis X
+	 
+	.Badge
+	 
+	 
 
 
 	       
