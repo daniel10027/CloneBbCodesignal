@@ -66,7 +66,7 @@
 	nombre de challenge resolu
 	.total challenge affiché
 	.challange (statut, titre, langage, date , nombre d'inscrits , nombre de commentaire )
-# NB: >>> L'interface du challenge est identique à l 'arcade à la difference qui'il y a un temps imparti >>>
+NB:  L'interface du challenge est identique à l 'arcade à la difference qui'il y a un temps imparti 
 
 # ................COMPAGNIE CHALLENGE................
 
