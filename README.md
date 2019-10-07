@@ -4,14 +4,14 @@
 
   Inscription
 
->>>email
->>>username
->>>password
+	.Email
+	.Username
+	.Password
 
   Connexion
 
->>>email/username
->>>password
+	.Email/Username
+	.Password
 
 2)Dashboard Developer
 
@@ -27,7 +27,7 @@
 
    A- Arcade
    
-       .Liste des rubriques(Nom de la rubrique , information sur le contenu de la rubrique
+        .Liste des rubriques(Nom de la rubrique , information sur le contenu de la rubrique
         (ex: nombre d'exercice résolu sur le nombre d'exercices total)
 	
    B-Contenu de la rubrique 
