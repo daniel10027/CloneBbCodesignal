@@ -88,4 +88,38 @@
 	.Contenu de l'exercice (Titre, nombre, , challenge)
 	.Contenu des test (titre, entreprise , difficulté, chrono, nombre d'inscrit, nombre de commentaire , recompense)
 	
+#                   >.....................Tourney........................
+
+        .Trois type de tournoi : REGULAR , MARATHONS, PRIVATE
+	.Les informations sur un tournoi 
+		- Nombre de participant
+		- La durée de l 'exercice
+		- La recompense
+		- Les commentaires
+		- Un état de l' exercice (à venir , en cours , Terminé )
+		
+#                   >.....................Profil........................
+
+## 	.04 onglet
+###          .OVERVIEW
+
+	    	  .User information
+		 	- Full_name
+			- Username
+			- Image
+			- E-mail
+			- Level
+			- Experience
+			- Education
+			
+####         .Code Friend
+	   
+####  	     .Badge
+
+
+	       
+	  	
+
+		
+	
 	
