@@ -58,7 +58,7 @@
 
    _le nom de l'utilisateur ayant publie le commentaire, la date de publication du commentaire, le vote , les          	    commentaires effectues , les réponses au commentaire_
 
- :+1:  ..................DAILY CHALLENGE.................. :shipit:
+ :+1:  ..................DAILY CHALLENGE.................. :heart:
 
 - Statut(Public, Private)
 - all status (visible)
@@ -140,6 +140,14 @@
 - Titre
 - Date
 - +New Post
+
+
+
+
+
+### REALISATION DE LA BASE DE DONNÉES 
+
+
 	 
 	 
 
